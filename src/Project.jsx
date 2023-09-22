@@ -10,13 +10,6 @@ function Project() {
       Source: "",
     },
     {
-      id: 2,
-      imageSrc: "./assets/images/Screenshot 2023-09-21 013859.png",
-      description: "Memory Game With Html,Css,Js",
-      liveDemoLink: "https://ahadbava.github.io/Memory-Game/",
-      Source: "https://github.com/AHADBAVA/Memory-Game",
-    },
-    {
         id: 3,
         imageSrc: "./src/assets/images/Screenshot 2023-09-18 192721.png",
         description: "Chat Bot With Html,Css,Js",
