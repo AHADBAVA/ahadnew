@@ -4,7 +4,7 @@ function Project() {
   const projects = [
     {
       id: 1,
-      imageSrc: "./assets/images/React-icon.svg.png",
+      imageSrc: "./src/assets/images/React-icon.svg.png",
       description: "Login & SignUp Page With Firebase BackEnd",
       liveDemoLink: "https://glistening-queijadas-f6bb8f.netlify.app/",
       Source: "",
