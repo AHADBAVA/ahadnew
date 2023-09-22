@@ -4,7 +4,7 @@ function Project() {
   const projects = [
     {
       id: 1,
-      imageSrc: require("./src/assets/images/Screenshot 2023-09-21 235143.png").default,
+      imageSrc: "./src/assets/images/Screenshot 2023-09-21 235143.png".default,
       description: "Login & SignUp Page With Firebase BackEnd",
       liveDemoLink: "https://glistening-queijadas-f6bb8f.netlify.app/",
       Source: "",
