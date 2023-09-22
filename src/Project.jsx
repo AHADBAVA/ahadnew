@@ -4,13 +4,14 @@ function Project() {
   const projects = [
     {
       id: 1,
-      imageSrc: "./src/assets/images/Screenshot 2023-09-21 235143.png",
+      imageSrc: require("./src/assets/images/Screenshot 2023-09-21 235143.png").default,
       description: "Login & SignUp Page With Firebase BackEnd",
       liveDemoLink: "https://glistening-queijadas-f6bb8f.netlify.app/",
       Source: "",
     },
     {
         id: 3,
+       
         imageSrc: "./src/assets/images/Screenshot 2023-09-18 192721.png",
         description: "Chat Bot With Html,Css,Js",
         liveDemoLink: "https://ahadbava.github.io/Chat-bot-javascript/",
