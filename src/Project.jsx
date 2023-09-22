@@ -25,14 +25,14 @@ function Project() {
       },
       {
         id: 5,
-        imageSrc: "./src/assets/images/Screenshot 2023-09-22 004218.png",
+        imageSrc: "./images/Screenshot 2023-09-22 004218.png",
         description: "BROtoPRO Programers Supporting Website",
         liveDemoLink: "https://ahadbava.github.io/BROTOPRO/",
         Source: "https://github.com/AHADBAVA/BROTOPRO",
       },
       {
         id: 6,
-        imageSrc: "./src/assets/images/Screenshot 2023-09-22 004402.png",
+        imageSrc: "./Screenshot 2023-09-22 004402.png",
         description: "Calculator With Html,Css,Js",
         liveDemoLink: "https://ahadbava.github.io/calculator/",
         Source: "https://github.com/AHADBAVA/calculator",
