@@ -11,7 +11,7 @@ function Project() {
     },
     {
       id: 2,
-      imageSrc: "./src/assets/images/Screenshot 2023-09-21 013859.png",
+      imageSrc: "./assets/images/Screenshot 2023-09-21 013859.png",
       description: "Memory Game With Html,Css,Js",
       liveDemoLink: "https://ahadbava.github.io/Memory-Game/",
       Source: "https://github.com/AHADBAVA/Memory-Game",
