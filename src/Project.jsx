@@ -61,7 +61,7 @@ function Project() {
             <img
               src={project.imageSrc}
               alt={`Project ${project.id}`}
-              className="w-full h-64 md:h-80 transition-transform transform group-hover:scale-105"
+              className="cover-object w-full h-64 md:h-80 transition-transform transform group-hover:scale-105"
             />
             <div className="absolute inset-0 flex flex-col items-center justify-center opacity-0 bg-black bg-opacity-80 group-hover:opacity-100 transition-opacity">
               <p className="text-white text-center mb-2">{project.description}</p>
